@@ -56,4 +56,6 @@ Demo using pre-trained model
 
    
 We would like to thank the authors of "Removing Rain from Single Images via a Deep Detail Network" for sharing their datasets.
+Contact
 
+If you have questions, you can contact YanWF1993@163.com.
