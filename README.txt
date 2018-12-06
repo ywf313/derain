@@ -38,7 +38,7 @@ Demo using pre-trained model
 2. for test:
 
  
-   We have offered test.py and pre-trained model  for test. We selected 100 clear images from BSDS500 to synthesize a test dataset using Photoshop, denoted as Rain100. This dataset contains heavy and light rain with different streak directions.
+   We have offered test.py and pre-trained model  for test. 
     
    You can just use 'python test.py' with GPU/CPU, you can obtain your results in /data/result.
 
@@ -46,10 +46,10 @@ Demo using pre-trained model
 
 3. Datasets:
    
-   We release our rainy image dataset Rain100 for tesing.
+   We release our rainy image dataset Rain100 for tesing.We selected 100 clear images from BSDS500 to synthesize a test dataset using Photoshop, denoted as Rain100. This dataset contains heavy and light rain with different streak directions.
    
    Our training datasets are from the authors of "Removing Rain from Single Images via a Deep Detail Network". 
-   It is publicly available at http://smartdsp.xmu.edu.cn/cvpr2017.html   and   °Ù¶ÈÔÆ (https://pan.baidu.com/s/1snmg8Kt). 
+   It is publicly available at http://smartdsp.xmu.edu.cn/cvpr2017.html   and   Â°Ã™Â¶ÃˆÃ”Ã† (https://pan.baidu.com/s/1snmg8Kt). 
 
 
 ## Acknowledgments
