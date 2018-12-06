@@ -15,6 +15,7 @@
 ## Demo using pre-trained model
 1. Preparing image data: 
    synthetic data: put rainy images into "/data/synthetic/image/" and label images into "/data/synthetic/label/". 
+   
    real-world data: put rainy images into "/data/real/"
 
 2. for test:
