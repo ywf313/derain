@@ -1,0 +1,4 @@
+model_checkpoint_path: "./checkpoint/train_32_64/Derain.model-220000"
+
+all_model_checkpoint_paths: "/raid/YWF/Derain-5000/checkpoint/train_32_64/Derain.model-220000"
+
